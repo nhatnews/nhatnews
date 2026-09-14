@@ -1,4 +1,4 @@
-# Nguyen Nhat Tan
+# Hi, I'm Nguyen Nhat Tan
 
 **Full-Stack Software Engineer** | Computer Science @ Ho Chi Minh City University of Technology (HCMUT)  
 Ho Chi Minh City, Vietnam • [GitHub](https://github.com/nhatnews) • [Email](mailto:tan.nguyennhat07@hcmut.edu.vn)
@@ -58,30 +58,6 @@ With practical experience architecting and shipping full-stack systems across mu
 
 ---
 
-## Featured Project: OVC MOVE
-
-> **Real-time Event Operation & Interactive Station Run Map Platform**  
-> *A distributed full-stack system managing station-based run events with live participant tracking, interactive navigation, and high-frequency state synchronization.*
-
-- **Role:** Full-Stack Software Engineer
-- **Environment:** Multi-repository architecture (`ovc-move-app` frontend & `ovc-move-service` backend)
-- **Key Contributions & Architectural Highlights:**
-  - **Scalable Frontend Architecture:** Engineered the client application on React 19 and TailwindCSS v4 with Feature-Sliced Design (FSD), eliminating cross-slice circular dependencies.
-  - **Interactive Station Map Engine:** Implemented an SVG coordinate calculation engine supporting zoom, pan, and dynamic station markers reflecting live status.
-  - **Low-Latency State Sync:** Integrated SignalR hubs with TanStack Query caching for real-time bi-directional synchronization across client devices.
-  - **Server-Side Security & Anti-Cheat:** Enforced server-side role data masking to sanitize challenge content before payload dispatch, preventing unauthorized client-side inspection.
-  - **Containerized Infrastructure:** Orchestrated backend and frontend services via Docker Compose and Caddy reverse proxy, automating HTTPS and routing.
-
----
-
-## Engineering Mindset & Practices
-
-- **Root Cause Analysis (RCA):** Deep diagnostic approach to production failures — resolving DB migration discrepancies (e.g., column mapping mismatches) and diagnosing container startup crashes (`OptionsValidationException`).
-- **Defensive Engineering:** Enforcing configuration and schema invariants at startup (`ValidateOnStart`) rather than risking runtime failures.
-- **Collaborative Git Discipline:** Adhering to structured feature-branching workflows (`feature/*`), resolving complex multi-branch merge conflicts, and writing clear pull request documentation.
-
----
-
 ## Education & Foundations
 
 **Ho Chi Minh City University of Technology (HCMUT) - VNU-HCM**  
@@ -94,7 +70,6 @@ With practical experience architecting and shipping full-stack systems across mu
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=nhatnews&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nhatnews&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
