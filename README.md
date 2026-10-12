@@ -1,8 +1,6 @@
-<!-- TERMINAL TYPING SVG HEADER -->
+<!-- CAPSULE RENDER HEADER (WAVING STYLE) -->
 <div align="center">
-  <a href="https://github.com/nhatnews">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Nguyen+Nhat+Tan+%F0%9F%91%8B;Full-Stack+Software+Engineer;Computer+Science+%40+HCMUT;Building+scalable+%26+resilient+systems" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=200&section=header&text=Nguyen%20Nhat%20Tan&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=Full-Stack%20Software%20Engineer%20•%20HCMUT&descSize=18&descAlignY=60&animation=twinkling" width="100%" alt="Header Wave" />
 
   <p align="center">
     <code>Full-Stack Systems</code> • <code>Distributed Architecture</code> • <code>Cloud Native</code>
@@ -69,11 +67,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=nhatnews&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=nhatnews&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nhatnews&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=nhatnews&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
