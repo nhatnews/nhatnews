@@ -1,87 +1,96 @@
-# Hi, I'm Nguyen Nhat Tan
-
-**Full-Stack Software Engineer** | Computer Science @ Ho Chi Minh City University of Technology (HCMUT)  
-Ho Chi Minh City, Vietnam • [GitHub](https://github.com/nhatnews) • [Email](mailto:tan.nguyennhat07@hcmut.edu.vn)
-
----
-
-## About Me
-
-I am a Computer Science student at HCMUT and a Full-Stack Software Engineer specializing in scalable web architectures, real-time distributed systems, and resilient cloud services.
-
-With practical experience architecting and shipping full-stack systems across multi-repository environments, I combine responsive and interactive user interfaces with robust backend domain architectures and automated containerized infrastructure.
-
----
-
-## Technical Arsenal
-
-### Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![React 19](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![.NET 10](https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Frontend Architecture & State
-![Feature-Sliced Design](https://img.shields.io/badge/Architecture-Feature--Sliced_Design-264653?style=flat-square)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
-- **Design & Modularity:** Feature-Sliced Design (FSD) architecture ensuring decoupled layers (`app`, `pages`, `widgets`, `features`, `entities`, `shared`).
-- **Interactive UI:** Dynamic SVG coordinate engine supporting real-time status projection, zooming, and panning.
-- **State Synchronization:** TanStack Query for optimistic caching, stale-while-revalidate policies, and real-time state hydration.
-- **Quality Assurance:** Unit and adversarial testing with Vitest and React Testing Library.
-
-### Backend Systems & Architecture
-![Clean Architecture](https://img.shields.io/badge/Architecture-Clean_Architecture-2B2D42?style=flat-square)
-![MediatR](https://img.shields.io/badge/CQRS-MediatR-black?style=flat-square)
-![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Dapper](https://img.shields.io/badge/ORM-Dapper-00599C?style=flat-square)
-![SignalR](https://img.shields.io/badge/Realtime-SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-- **Patterns & Flow:** Clean Architecture and CQRS pattern using MediatR for isolation of business logic from infrastructure.
-- **Reliability & Configuration:** Options Pattern with `ValidateOnStart` to ensure fail-fast configuration startup validation.
-- **Security & Authorization:** Role-Based Access Control (RBAC) and strict server-side role data masking.
-
-### Cloud, Storage & DevOps
-![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure Blob](https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-- **Cloud Infrastructure:** Azure SQL Database with migration scripts and schema versioning; segregated Azure Blob Storage containers.
-- **Containerization & Ingress:** Docker Compose environments fronted by Caddy reverse proxy with automated TLS.
-- **Network Diagnostics:** Root cause troubleshooting across infrastructure layers, isolating false CORS issues from upstream 502 Bad Gateway events.
-
----
-
-## Education & Foundations
-
-**Ho Chi Minh City University of Technology (HCMUT) - VNU-HCM**  
-*Bachelor of Science in Computer Science*  
-- **Core Curriculum:** Data Structures & Algorithms, Object-Oriented Analysis & Design, Database Systems, Computer Networks, Operating Systems, Discrete Mathematics.
-
----
-
-## GitHub Stats
-
+<!-- TERMINAL TYPING SVG HEADER -->
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=nhatnews&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/nhatnews">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Nguyen+Nhat+Tan+%F0%9F%91%8B;Full-Stack+Software+Engineer;Computer+Science+%40+HCMUT;Building+scalable+%26+resilient+systems" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <code>Full-Stack Systems</code> • <code>Distributed Architecture</code> • <code>Cloud Native</code>
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/nhatnews" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-nhatnews-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/nhatnews">
+      <img src="https://img.shields.io/badge/GitHub-nhatnews-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:tan.nguyennhat.cs@gmail.com">
+      <img src="https://img.shields.io/badge/Email-tan.nguyennhat.cs%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <img src="https://img.shields.io/badge/Location-HCMC%2C%20Vietnam-24292E?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  </p>
 </div>
 
-<br/>
+---
 
-<div align="center">
+### ⚡ About Me
+
+- 🎓 **Computer Science** undergraduate at **Ho Chi Minh City University of Technology (HCMUT)**.
+- 🛠️ **Full-Stack Engineer** specializing in **React 19 / TypeScript** and **.NET 10 / ASP.NET Core** ecosystems.
+- 🏛️ Strong architectural focus: **Clean Architecture**, **CQRS / MediatR**, **Feature-Sliced Design (FSD)**, and containerized micro-services.
+- 🚀 Passionate about high-throughput distributed systems, dynamic coordinate visualizations, and developer experience.
+
+---
+
+### 🛠️ Technical Arsenal
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <br/>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+  <br/>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core" />
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="SignalR" />
+  <br/>
+  <!-- DevOps & Cloud -->
+  <img src="https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure SQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" alt="Caddy" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 📊 GitHub Metrics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=nhatnews&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=nhatnews&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=nhatnews&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+</p>
 
 ---
 
-## Contact
+### 📬 Connect With Me
 
-- **University Email:** [tan.nguyennhat07@hcmut.edu.vn](mailto:tan.nguyennhat07@hcmut.edu.vn)
-- **Personal Email:** [nhattan123of@gmail.com](mailto:nhattan123of@gmail.com)
-- **GitHub Profile:** [github.com/nhatnews](https://github.com/nhatnews)
+<p align="left">
+  <a href="https://www.linkedin.com/in/nhatnews" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  <a href="mailto:tan.nguyennhat.cs@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email" />
+  </a>
+  <a href="mailto:tan.nguyennhat07@hcmut.edu.vn">
+    <img src="https://img.shields.io/badge/HCMUT%20Mail-003366?style=for-the-badge&logo=googlechrome&logoColor=white" alt="University Email" />
+  </a>
+  <a href="https://github.com/nhatnews" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+</p>
