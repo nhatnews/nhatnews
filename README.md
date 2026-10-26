@@ -1,9 +1,9 @@
 <!-- CAPSULE RENDER HEADER (WAVING STYLE) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=200&section=header&text=Nguyen%20Nhat%20Tan&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=Full-Stack%20Software%20Engineer%20•%20HCMUT&descSize=18&descAlignY=60&animation=twinkling" width="100%" alt="Header Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7aa2f7&height=200&section=header&text=Nguyen%20Nhat%20Tan&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=Full-Stack%20Engineer%20•%20AI%20%26%20Zero-Trust%20Security%20•%20HCMUT&descSize=18&descAlignY=60&animation=twinkling" width="100%" alt="Header Wave" />
 
   <p align="center">
-    <code>Full-Stack Systems</code> • <code>Distributed Architecture</code> • <code>Cloud Native</code>
+    <code>Full-Stack Systems</code> • <code>Zero-Trust & Cryptography</code> • <code>Adversarial AI Defense</code> • <code>Cloud Native</code>
   </p>
 
   <p align="center">
@@ -25,9 +25,10 @@
 ### ⚡ About Me
 
 - 🎓 **Computer Science** undergraduate at **Ho Chi Minh City University of Technology (HCMUT)**.
-- 🛠️ **Full-Stack Engineer** specializing in **React 19 / TypeScript** and **.NET 10 / ASP.NET Core** ecosystems.
-- 🏛️ Strong architectural focus: **Clean Architecture**, **CQRS / MediatR**, **Feature-Sliced Design (FSD)**, and containerized micro-services.
-- 🚀 Passionate about high-throughput distributed systems, dynamic coordinate visualizations, and developer experience.
+- 🏆 **Top 50 / 300 Teams** at **RMIT Hackathon 2026** (International & Saigon South Track) — Adversarial Multilingual AI Security & Zero-Trust Architecture.
+- 🛠️ **Full-Stack Software Engineer** specializing in **React 19 / TypeScript** and **.NET 10 / ASP.NET Core** ecosystems.
+- 🏛️ Strong architectural discipline: **Clean Architecture**, **CQRS / MediatR**, **Feature-Sliced Design (FSD)**, and containerized microservices.
+- 🛡️ Passionate about **Zero-Trust Security & MCP (Model Context Protocol)**, **Client-Side E2EE Cryptography**, and **Adversarial NLP / Prompt Injection Defense**.
 
 ---
 
@@ -37,9 +38,15 @@
   <!-- Languages -->
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <br/>
+  <!-- AI / ML & Security -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Zero_Trust-TideCloak_MCP-10B981?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="TideCloak MCP" />
   <br/>
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" />
@@ -60,6 +67,14 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
+---
+
+### 🚀 Highlight Projects
+
+- **[OVC MOVE](https://move.oispvolunteerclub.com/)** — Production Real-time Race Management Platform with zero-dependency interactive SVG canvas (0.2x–8.0x zoom/pan), SignalR WebSockets, Role Masking security, and ASP.NET Core Clean Architecture.
+- **[ScholarLock](https://github.com/nhatnews/rmit-hackathon-2026)** — Zero-Trust Academic IP Vault powered by **TideCloak MCP** (`@tidecloak/react`). Zero Master Key at rest (`AES-256-GCM`), 3-of-3 Emergent Authority multi-sig sharding, and breach-gated ethics arbitration.
+- **[Multilingual Prompt-Attack Classifier](https://github.com/nhatnews/rmit-hackathon-2026)** — **Top 50 / 300 Teams** at RMIT Hackathon 2026. Fine-tuned 560M RemBERT for 4 languages with Layer-wise Learning Rate Decay and custom Sample-Weighted Label Smoothing Loss on Kaggle Dual-GPU (`T4 x 2`).
 
 ---
 

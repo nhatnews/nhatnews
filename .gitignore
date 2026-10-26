@@ -1,0 +1,14 @@
+# LaTeX temporary / build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.nav
+*.snm
+
+# CV source & PDF (keep local and private)
+cv.tex
+cv.pdf
